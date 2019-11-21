@@ -1,0 +1,24 @@
+Responsibilities
+=========================================================================================
+Provision MySQL instances, both in clustered and non-clustered configurations
+Ensure performance, security, and availability of databases
+Prepare documentations and specifications
+Handle common database procedures, such as upgrade, backup, recovery, migration, etc.
+Profile server resource usage, optimize and tweak as necessary
+Collaborate with other team members and stakeholders
+software to store and organize data. The role may include capacity planning, installation, configuration, database design, migration, 
+performance monitoring, security, troubleshooting, as well as backup and data recovery.
+
+Skills and Qualifications
+==========================================================================================
+Strong proficiency in MySQL database management
+Decent experience with recent versions of MySQL
+Understanding of MySQL’s underlying storage engines, such as InnoDB and MyISAM
+Experience with replication configuration in MySQL
+Knowledge of de-facto standards and best practices in MySQL
+Proficient in writing and optimizing SQL statements
+Knowledge of MySQL features, such as its event scheduler
+Ability to plan resource requirements from high level specifications
+Familiarity with other SQL/NoSQL databases such as PostgreSQL, MongoDB, etc. {{if required}}
+Knowledge of limitations in MySQL and their workarounds in contrast to other popular relational databases
+Proficient understanding of code versioning tools such as {{Git / Mercurial / SVN}}
