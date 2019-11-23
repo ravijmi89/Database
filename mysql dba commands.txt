@@ -1,0 +1,4 @@
+create user 'dba'@'192.168.10.1' identified by 'Vanya@9764';
+grant all on *.* to 'dba'@'192.168.10.1';
+UPDATE mysql.user SET Host='%' WHERE Host='192.168.10.1' AND User='dba';
+FLUSH PRIVILEGES;
